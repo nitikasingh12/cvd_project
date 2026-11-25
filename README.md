@@ -25,7 +25,11 @@ pip install -r requirements.txt
 python train.py            # a few minutes; creates models/ and reports/
 streamlit run app.py       # opens http://localhost:8501
 ```
-/*Live Link*/: https://cvdproject-oyythrcee96zqer9eskfov.streamlit.app/
+
+*Live Link*: https://cvdproject-oyythrcee96zqer9eskfov.streamlit.app/
+
+
+
 3. Notebook: open `cardio_ml_comparison.ipynb`, select the `.venv` kernel, **Run All**.
    (Or use Run and Debug panel: "Train models" / "Streamlit app".)
 
